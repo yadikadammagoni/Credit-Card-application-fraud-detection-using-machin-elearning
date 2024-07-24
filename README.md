@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Using Machine Learning
+# Credit Card Application Fraud Detection Using Machine Learning
 # Project Overview
 This project aims to enhance credit card fraud detection and credit risk assessment through machine learning techniques. It employs various models, including Decision Tree, Random Forest, Logistic Regression, Artificial Neural Network, and Naive Bayes, to identify fraudulent activities and assess credit risk more effectively.
 
